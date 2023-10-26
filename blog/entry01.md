@@ -9,7 +9,15 @@ Some links that i used for my reasearch would be on a [Overview on forensic scie
 
 # EDP #
 
-The _Engineering Design Process_ might be a bit long as the **first step of defining** that im on which is actually knowing the field of the career and the job behind it has a lot of meaning and i need to a lot of research in order to actually know what forensic science actually is, But so far with the links that i found i would think myself on a good place of not to worry about gathering imformation as i already know about the topic and as i look into the technologies behind it. The second step would be on the real **ENP**, in which im still working on that as i research more about what problems are there in the fornesic science industry and what they still **need to solve** or what **they don't have** that i might just use that chance and think of a way to solve it as the design process might use a lot of time but i think with the time, it would be worth it to find something that wasn't there before.
+The _Engineering Design Process_ might be a bit long as the **first step of defining** that im on which is actually knowing the field of the career and the job behind it has a lot of meaning and i need to a lot of research in order to actually know what forensic science actually is, But so far with the links that i found i would think myself on a good place of not to worry about gathering imformation as i already know about the topic and as i look into the technologies behind it. The **second step** would be on the real **ENP**, in which im still working on that as i research more about what problems are there in the fornesic science industry and what they still **need to solve** or what **they don't have** that i might just use that chance and think of a way to solve it as the design process might use a lot of time but i think with the time, it would be worth it to find something that wasn't there before.
+
+# skills #
+
+Some of the skills that i think i have to make this project work is that when it comes to projects like these i will try and do collabrative work and maybe get inspirational projects from others as that includes _socializing_, I can also manage my _time_ quite well, i can also _organize_ pretty well, and i can use my _imagination_ with great effect with along designing of _art_ in which its one of my habits, as im also quite good in the writing catagory in case i need to take notes.
+
+## More in detail about my Skills ##
+
+
 
 
 
