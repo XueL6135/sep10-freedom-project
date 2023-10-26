@@ -13,9 +13,33 @@ The _Engineering Design Process_ might be a bit long as the **first step of defi
 
 # skills #
 
-Some of the skills that i think i have to make this project work is that when it comes to projects like these i will try and do collabrative work and maybe get inspirational projects from others as that includes _socializing_, I can also manage my _time_ quite well, i can also _organize_ pretty well, and i can use my _imagination_ with great effect with along designing of _art_ in which its one of my habits, as im also quite good in the writing catagory in case i need to take notes.
+Some of the skills that i think i have to make this project work is that when it comes to projects like these i will try and do collabrative work and maybe get inspirational projects from others as that includes _socializing_, I can also manage my _time_ quite well, i can also _organize_ pretty well, and i can use my _imagination_ with great effect with along designing of _art_ in which its one of my habits, as im also quite good in the _writing_ catagory in case i need to take notes.
 
 ## More in detail about my Skills ##
+
+**Socializing**
+
+Either with strangers i can socalize pretty well if they are in the same topic as me and that we can use the time of spending together and solve problems that we both find interesting in. In the socialize class i would say im pretty good as Even if theres only one person in the room i would still at least try and get their attention and get along with them.
+
+**time**
+
+Timw to me is very important as i need to schedule plans and gatherthings most of the time with only myself to help and sometimes it won't come out like i wanted it to but most 90% of the time i can manage time just like today i went for volunteering i asked about what time they start which is about 3-6PM, since my one of my friends doesn't want to go alone, i made myself time as i have clubs on the days she wanted to go but i think with it being ending at 3:30 i can go pretty well on about leaving the club around 3:20 and get their early as 3:40 , in which its enough time for us to work as long. and i would always to make sure i have enough time fo rmy own needs too.
+
+**oraganize**
+
+usually i would organize for myself but now i'm helping others to organize their things too, just as the start of the year i was asked by my ELA teacher ot help and organize his drawers i agreed because back at home i almost do this all the time as i have sections of things for everything.
+
+**Imagination and Art**
+
+I would combine these skills together becuase i inmagine a lot and in my imaginations i would sometimes design them out on a piece of paper and i would call tht art as i add more details into my design, whatever is on m y mind i will make it into a reality somehow.
+
+**writing**
+
+I liked to write a lot with lots and lots of details included, i just like takingnotes in general and hope to understand more throughout my own understand of writing.
+
+# Summary #
+
+Overall of all these thinking i would say im pretty intrigued by this topic that i loved to do as its my first time and my first thing that i actually love and passtionate about with science which i hope i can learn more about the human body and get better understanding of it and hope i can imagine in a serious and experimenting field one day that i can both identify body wounds and parts with the meaning behind it!
 
 
 
