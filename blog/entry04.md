@@ -11,6 +11,23 @@ The way I thought about it was very simple, as it didn't require much force sinc
 ## how did you tinkered with it?
 I start tinkering with the code by copying and pasting it onto [jsbin](https://jsbin.com/qewayukotu/edit?html,output), and from there, I start working with my way into the code, and that is how I myself would change about the code. As myself had also worked with these kinds of shapes below, I just played around with the code and started changing bits like the height and width to see how far they would go and the limits that they could reach. I changed the X and Y values to see how they would move around, and it was really fun to see how the shapes change by just adjusting a few numbers in the code.
 
+```
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+```
+
 # EDP
 ]The EDP(Engeneering Design Process) that I am on now is mostly due to the fact that I am starting to fix some errors in how my topic is going to be presented and make sure that it is well proven and double checked so I can make sure that the product is actually something useful for society and make it presentable and more appealing, while also describing how it will be made and how we can further look into how we can combine all the things smoothly without having a roadblock and having to redo everything.
 
