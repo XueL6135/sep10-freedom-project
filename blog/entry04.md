@@ -2,7 +2,7 @@
 2.25.24
 10:50PM
 
-#Context
+# Context
 
 [Previous](entry03.md) | [Next](entry05.md)
 
