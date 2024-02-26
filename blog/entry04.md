@@ -16,6 +16,8 @@ I start tinkering with the code by copying and pasting it onto [jsbin](https://j
 
 # Skills
 The skills I need on this are very important, because if the code is about the shapes and how we can create them to move and such, I would feel like the skill would be mostly off the design that we can make using this kind of code. I saw how people used [Aframe](https://aframe.io/) for 3D shapes like these and how they molded it and used it to create unique designs that came with it. With creativity, I would feel like I could create my own design with the shapes available and attach it to anything I wanted. (As long as my imagination goes.)
+And I can also see that this requires basic knowledge of CSS since these shapes are part of design, and I have a brave gut feeling that I will also be applying CSS to these shapes when I am in the middle of the design process, along with HTML to go with it too. (coding, but with shapes instead)
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
