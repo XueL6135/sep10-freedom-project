@@ -1,7 +1,8 @@
 # Entry 4
-##### X/X/XX
+2.25.24
+10:50PM
 
-Text
+#Context
 
 [Previous](entry03.md) | [Next](entry05.md)
 
