@@ -2,6 +2,8 @@
 
 Tool: **A-Frame**
 
+ Installment- `<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>`
+
 ---
 03/2/24
 *Step one- using [glitch](https://glitch.com/~aframe-basic-guide) to help myself?*
@@ -14,17 +16,17 @@ Tool: **A-Frame**
 *Step two?-Learning from videos*
 [playlist to A-frame learning basics](https://youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&si=F18tOmhkw-vy0lCu)
 -to install/use
--setting up using '<a-scene>'
--changing up shapes/settin it up using codes like 'a-box/a-cylinder'
+-setting up using `<a-scene>`
+-changing up shapes/settin it up using codes like `a-box/a-cylinder`
 -shape inside a shape?
--'Size,position,and scale' matters a lot.
+-`Size,position,and scale` matters a lot.
 
    **Texture**
-- '<src = "Texture img link.jpg">'
+- `<src = "Texture img link.jpg">`
 - colors matter in textures too to see how they would look like.
-- '<a-assets>' to add for better quality texture results
+- `<a-assets>` to add for better quality texture results
 - [textures-a place to find them would be this link ](https://www.textures.com/searchq=Brick)
-- 'normal-map,normal-texture-repeat,normal-scale' to make the
+- `normal-map,normal-texture-repeat,normal-scale` to make the
 texture more apealing.
 -scale can change the spes into hallow.
 ---
@@ -39,11 +41,15 @@ but turns out its quite easy, i'm quite confident
 I have the hand of this of creating shapes
 and textures, with creating visual desgins to my freedom project which can be a great help.**
 
-- install it and try it.
-
-
-X/X/X:
-* Text
+03/04/24:
+*part2*
+**continuing on with the video**
+Notes
+- using primitives to learn about curved images
+- Radius of Arc
+- Width of Arc - 1 m
+- angle subtended by Arc = 90 deg
+- Img height (m) = width (m)/IMG width (px) * IMG height (px)
 
 
 <!-- 
