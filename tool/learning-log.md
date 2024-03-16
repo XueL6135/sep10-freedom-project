@@ -51,6 +51,48 @@ Notes
 - angle subtended by Arc = 90 deg
 - Img height (m) = width (m)/IMG width (px) * IMG height (px)
 
+3/16/24
+**did some practice in my IDE**
+`_https://turbo-waddle-979v9w6gpxq42pgxv-8080.app.github.dev/index.html_`
+worked on 
+-`<a-plane>`
+-`a-image`
+-`a-curvedimage`
+
+```
+<a-plane material= "src: yoduck.jpeg;
+                   repeat: 5 5;
+                   normal-map: #floor-NRM;
+                   normaltexture-reapeat: 5 5"
+roation="-99 0 0"
+scale="10 10 1">
+
+
+</a-plane>```
+
+```<a-image src="yoduck.jpeg"
+position="0. 1.5 -3"
+width="1"
+hieght="0.75"
+scale="3 3 1">
+ </a-image>
+```
+
+```
+<a-curvedimage
+ src="yoduck.jpeg"
+theta-length="130"
+theta-start="-90"
+radius="0.7"
+position="0 1.5 0">
+</a-curvedimage>
+
+```
+-just made images smaller/stretch/or fitting into the adjustment
+-Still have
+Next step- learning how to set up a scene. 
+
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
