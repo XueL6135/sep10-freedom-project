@@ -92,6 +92,7 @@ position="0 1.5 0">
 -Still have
 Next step- learning how to set up a scene. 
 
+![image](https://github.com/XueL6135/sep10-freedom-project/assets/146861517/4edb1120-ac91-4ff0-8cc9-22d25e5153b1)
 
 
 <!-- 
