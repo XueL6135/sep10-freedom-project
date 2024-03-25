@@ -145,3 +145,29 @@ you can add more then one model in your assest itdem.
 -USE ENTITY FOR IT TO SHOW UP FOR THE 3D MODEL
 
 ```
+
+# Animating object #
+```
+<a-box color="colors"
+position="0 80 0">
+ `<a-animation attribute="rotation/position"
+              to="0 360 0"
+              repeat="indefinite"
+              dur="5000"
+              easing="linear"
+              direction="alternate"
+              easing="ease-out or ease-out-bounce"
+              >
+  </a-animation>`
+</a-box>
+
+ `<a-animation attribute="rotation/position/material.color"
+              from-="specific color"
+              to="specific color"
+              repeat="indefinite"
+              direction="alternate"
+              dur="1500"
+              easing="ease-out or ease-out-bounce"
+              >
+  </a-animation>`
+```
