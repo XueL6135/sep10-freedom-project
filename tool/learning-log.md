@@ -147,6 +147,8 @@ you can add more then one model in your assest itdem.
 ```
 
 # Animating object #
+
+## roatation ##
 ```
 <a-box color="colors"
 position="0 80 0">
@@ -160,7 +162,10 @@ position="0 80 0">
               >
   </a-animation>`
 </a-box>
+```
 
+## Changing it from a specific color to this ##
+```
  `<a-animation attribute="rotation/position/material.color"
               from-="specific color"
               to="specific color"
@@ -170,4 +175,12 @@ position="0 80 0">
               easing="ease-out or ease-out-bounce"
               >
   </a-animation>`
+```
+
+# The cursor #
+```
+<a-entity>
+   <a-cursor>
+   </a-cursor>
+</a-entity>
 ```
