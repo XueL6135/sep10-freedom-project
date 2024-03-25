@@ -104,7 +104,7 @@ practicing wiht every shape dimention i have.
 * What you're going to try next
 -->
 
-3.24.24
+**3.24.24**
 
 ## 360 ##
 Codes for me to try out in my next practice.
@@ -145,6 +145,7 @@ you can add more then one model in your assest itdem.
 -USE ENTITY FOR IT TO SHOW UP FOR THE 3D MODEL
 
 ```
+**3.25.24**
 
 # Animating object #
 
