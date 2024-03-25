@@ -103,3 +103,45 @@ practicing wiht every shape dimention i have.
 * Questions you still have
 * What you're going to try next
 -->
+
+3.24.24
+
+## 360 ##
+Codes for me to try out in my next practice.
+
+```
+<a-sky src="clear-sunny-sky
+        radius="5"
+        side="double"
+        rotation="0 60 0">
+       </a-sky>
+```
+
+# Camera primitive #
+-the postiion of where your caera can be will be chnaged and can be changed by how you chnage them of how you can view the other elements.
+-The object smay look normal to the adults, but to kids its very different considering that they are much shorter. (so thats the reason you need to change 
+your camera height).
+-You can have multiple cameras and you can choose which one do you want to select.
+
+`<a-camera
+  user-height="1.6"
+  active="false">
+</a-camera>
+`
+
+# loading an displaying 3d objects #
+-you can use other 3d models that you can use.
+-
+
+```
+<a-assets-item
+  id="something" src="your scene/model" >
+you can add more then one model in your assest itdem.
+</a-assets-item>
+
+<a-entity gltf-model="model".>
+</a-entity
+
+-USE ENTITY FOR IT TO SHOW UP FOR THE 3D MODEL
+
+```
