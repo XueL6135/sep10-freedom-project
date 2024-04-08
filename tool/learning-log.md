@@ -185,3 +185,47 @@ position="0 80 0">
    </a-cursor>
 </a-entity>
 ```
+#Finishing up#
+
+
+-Summary-
+
+**During this whole trip of Using A-frame as a tool for my freedom project i have learned that i have almost 80% control over A-frame and that im positively sure that i can work with what i have. I have: with the following codes i can know that what I have.
+As the code shows below:
+```
+<a-scene>
+<a-plane>
+<a-box>
+<a-cone>
+<a-shphere>
+<a-Cilynder>
+<a-entity>
+<a-Image>
+<a-camera>
+<a-assets>
+<a-scene>
+<a-sky>
+<a-cursor>
+```
+Other included codes that help making these objects move the way their suppose to are the following:
+
+```
+position="0 0 0"
+rotation="0 0 0"
+scale="0 0 0"
+color="#"
+attribute="rotation"
+from="0 0 0"
+to="0 0 0"
+repeat="indefinite"
+dur="5000"
+easing="linear"
+height="0"
+radius="0"
+segments-radial="0"
+open-ended="true"
+side="double"
+depth="0"
+width="0"
+```
+Im confident
