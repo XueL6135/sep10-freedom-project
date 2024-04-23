@@ -21,6 +21,10 @@
   margin-top: 25px;
 }
 
+.card-body {
+  background-color: #F5EFE6;
+}
+
 .Context {
   margin-top: 25px;
   font-size: 30px;
