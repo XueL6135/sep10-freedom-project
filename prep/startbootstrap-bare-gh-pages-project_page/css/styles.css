@@ -12,17 +12,29 @@
  */
  <link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=Caveat:wght@400..700&family=Courier+Prime&family=Josefin+Sans:ital,wght@0,100;0,200;1,300&family=Montserrat+Alternates:ital,wght@0,300;1,300;1,400&family=Playpen+Sans:wght@100..800&family=Roboto+Mono:ital,wght@0,200;0,300;1,300&family=Roboto:ital,wght@1,100&family=Sometype+Mono&family=Tilt+Neon&display=swap" rel="stylesheet">
 
+.container{
+background-color: #F0F0F0;
+}
 
-.ScienceImage1 {
+.ScienceImage1{
   width: 600px;
   border-style: solid;
 }
+
+.container-fluid1{
+Border-style: solid;
+padding-left: 40px;
+border-color: #A9A9A9;
+background: url(../assets/science.jpeg);
+opacity: 0.8;
+}
+
 .card {
   margin-top: 25px;
 }
 
 .card-body {
-  background-color: #F5EFE6;
+  background-color: #F3EEEA;
 }
 
 .Context {
