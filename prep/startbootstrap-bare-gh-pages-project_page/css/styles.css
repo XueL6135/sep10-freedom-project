@@ -10,20 +10,53 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
- <link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=Caveat:wght@400..700&family=Courier+Prime&family=Josefin+Sans:ital,wght@0,100;0,200;1,300&family=Montserrat+Alternates:ital,wght@0,300;1,300;1,400&family=Playpen+Sans:wght@100..800&family=Roboto+Mono:ital,wght@0,200;0,300;1,300&family=Roboto:ital,wght@1,100&family=Sometype+Mono&family=Tilt+Neon&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 
-.container{
-background-color: #F0F0F0;
+ <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
+ <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+.container-fluid0.11{
+background: #F1EFEF;
+}
+.Foresnic{
+  font-family: MonoLisa;
+  background-color: #B0A695;
+  border-style: solid;
+  border-radius: 15px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.TITLE{
+  text-Align: center;
+  font-size: 15px;
+  color: Black;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+padding-top: 20px;
+}
+.lead{
+  text-Align: center;
+  font-size: 15px;
+  color: Black;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  padding-top: 20px;
 }
 
-.ScienceImage1{
-  width: 600px;
-  border-style: solid;
+.image1111{
+  width: 100%;
+  opacity: 0.6;
+
 }
 
 .container-fluid1{
 Border-style: solid;
-padding-left: 40px;
+margin: 60px;
 border-color: #A9A9A9;
 background: url(../assets/science.jpeg);
 opacity: 0.8;
@@ -31,24 +64,151 @@ opacity: 0.8;
 
 .card {
   margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .card-body {
   background-color: #F3EEEA;
 }
 
-.Context {
+.Context111 {
   margin-top: 25px;
-  font-size: 30px;
-  font-family: "Playpen Sans", cursive;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
 
+.image222{
+  width: 100%;
+  opacity: 0.6;
+  background-color: #B0A695;
+}
+.textsoft{
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: #B0A695;
+  border-style: solid;
+  border-radius: 15px;
+  margin-left: 25%;
+  margin-right: 25%;
 
 
+}
+
+.Soft{
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  }
 
 
+  .Firstlist{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+
+  }
+
+  #CardofSoft{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+  }
+.container-fluid3{
+  padding-top:50px;
+  background-color: #F3EEEA;
+  border-style: solid;
+  border-color:#776B5D;
+}
+.container-fluid4{
+  padding-top:50px;
+  background-color: #E3E1D9;
+  border-style: solid;
+  border-color:#776B5D;
+}
+.container-fluid5{
+  padding-top:50px;
+  background-color: #EEEDEB;
+  border-style: solid;
+  border-color:#776B5D;
+}
+.container-fluid6{
+  background-color: #F3EEEA;
+}
+.container-fluid7{
+  margin: 40px;
+}
+.SIFTpng{
+  width:300px;
+  }
+
+.FTKsvg{
+  width:330px;
+}
+
+.texthard{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+   text-align: center;
+  color: black;
+  background-color: #B0A695;
+  border-style: solid;
+  border-radius: 15px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 10px;
+}
+.Organize{
+  margin:3%;
+  text-align:center;
+}
+  .Hard2{
+width:100%;
+opacity: 0.6;
+}
+
+.Organize{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.TXTend{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.FumeTXT{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.TXT{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.DrugTXT{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
 
 
