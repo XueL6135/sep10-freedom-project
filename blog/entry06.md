@@ -9,6 +9,12 @@ On my latest freedom project that I have done, mostly Plan.md, where I plan out 
 
 In my plan.md, it's sort of what I did over the past few works of my freedom project, which is to put everything together now that I have gotten most of the requirements, and those are the analysis that I did, the content that I did, and also all of the software and hardware that I did. I sort of organized them and put  them all on one website page that I could put them on. From introducing Foresic Science, which is my topic, to the value points that they have and what more things they need in order to make things easier in that field.
 
+![image](https://github.com/XueL6135/sep10-freedom-project/assets/146861517/058b5c66-3a54-4df1-bd02-02cd0b62ebe2)
+
+![image](https://github.com/XueL6135/sep10-freedom-project/assets/146861517/82342131-fb00-4024-85a8-2291ef60d359)
+
+![image](https://github.com/XueL6135/sep10-freedom-project/assets/146861517/f4d302e6-7b86-4bd3-b407-11de81ef4fce)
+
 # Sources
 
 There are some sites that I used for the plan.md, and one of the most trusted ones that I love would be [colorhunt](https://colorhunt.co) because of the availability of colors that they have and how easily it is for me to just copy and paste the colors onto my IDE. Another one would be as simple as [Google Fonts](https://fonts.google.com). I personally love how I can simply put fonts on my website while they also have the code for me to easily paste, while that only works sometimes. While this website might not do much, [Bootstrap Templates](https://startbootstrap.com/themes) is what started off my project in the first place because I found a nice template for me to use—not too advanced but basic enough for me to work on. I sometimes go onto the website itself to get myself inspired by those templates to see how and what kind of things I can add to my website and how I can maybe improve it.
