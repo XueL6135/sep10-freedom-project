@@ -16,6 +16,8 @@
 
  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
 
+ <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
 .container-fluid0.11{
 background: #F1EFEF;
 }
@@ -31,7 +33,7 @@ background: #F1EFEF;
   text-Align: center;
   font-size: 15px;
   color: Black;
-  font-family: "Oswald", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
@@ -41,7 +43,7 @@ padding-top: 20px;
   text-Align: center;
   font-size: 15px;
   color: Black;
-  font-family: "Oswald", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
@@ -129,18 +131,21 @@ opacity: 0.8;
   background-color: #F3EEEA;
   border-style: solid;
   border-color:#776B5D;
+
 }
 .container-fluid4{
   padding-top:50px;
   background-color: #E3E1D9;
   border-style: solid;
   border-color:#776B5D;
+
 }
 .container-fluid5{
   padding-top:50px;
   background-color: #EEEDEB;
   border-style: solid;
   border-color:#776B5D;
+
 }
 .container-fluid6{
   background-color: #F3EEEA;
@@ -170,6 +175,8 @@ opacity: 0.8;
   margin-right: 25%;
   margin-top: 10px;
 }
+
+
 .Organize{
   margin:3%;
   text-align:center;
