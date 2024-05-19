@@ -1,5 +1,12 @@
 # Plan
 
+-[] Make my page repsonsive 
+-[] Back my boxes More to the center 
+-[] spelling problem 
+-[] Make the navbar on the sticky top
+
+
+
 ## Wireframes
 * [Mobile]()
 * [Desktop]()
