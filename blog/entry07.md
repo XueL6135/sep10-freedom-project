@@ -40,6 +40,11 @@ Engaging people - during the expo engaging people in your presentation is a grea
 The final say all is that all of this is just very time-consuming but the product that you are willing to work on is all worth it to showcase what you have done so far during the years, how you have improved throughout your troubles, and what the things that you have learned through. The journey is hard but once you do it more than a few times you will get to know that it's a lot easier than you think. I would like to say that during these months of hard work, I would say that there has been a big boost in my skills such as my confidence to stand up In a good crowd of people, and how presenting to others has been a lot easier.
 
 
+
+[Link to project github](https://github.com/XueL6135/sep10-freedom-project/blob/main/prep/startbootstrap-bare-gh-pages-project_page/index.html)
+
+[link to web](https://xuel6135.github.io/sep10-freedom-project/prep/startbootstrap-bare-gh-pages-project_page/index.html)
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
